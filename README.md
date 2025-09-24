@@ -1,4 +1,4 @@
-# 🧠 Brain MRI - Tumor Detection with CNN
+#  Brain MRI - Tumor Detection with CNN
 
 ## Veri Seti
 Bu projede, Kaggle üzerinde bulunan **Brain MRI Images for Brain Tumor Detection** veri seti kullanılmıştır. Veri setinde:
@@ -31,3 +31,5 @@ Gelecekte yapılabilecekler:
 - Daha derin modeller (ResNet, EfficientNet gibi) denenebilir.
 - Veri arttırma (data augmentation) yöntemleriyle performans artırılabilir.
 - Model, gerçek zamanlı klinik uygulamalar için optimize edilebilir.
+##Link-Kaggle
+https://www.kaggle.com/code/faridjamalov/https-www-kaggle-com-code-faridjamalov-cnn-br 
