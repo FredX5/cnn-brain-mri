@@ -31,5 +31,8 @@ Gelecekte yapılabilecekler:
 - Daha derin modeller (ResNet, EfficientNet gibi) denenebilir.
 - Veri arttırma (data augmentation) yöntemleriyle performans artırılabilir.
 - Model, gerçek zamanlı klinik uygulamalar için optimize edilebilir.
+- Gelecek Vizyonu
+
+Projemi, kullanıcıların kendi MR görüntülerini yükleyip modelin tahminini görebileceği bir arayüz ile geliştirmek istiyorum. Gelecekte veri toplama sürecini gerçek zamanlı hâle getirip, modeli farklı MR türleri ve nadir tümörleri tanıyacak şekilde iyileştirmeyi planlıyorum. Bu proje bootcamp sonrası da benimle kalacak ve yeni teknolojiler öğrenerek sürekli geliştirebileceğim bir temel olacak.
 ##Link-Kaggle
 https://www.kaggle.com/code/faridjamalov/https-www-kaggle-com-code-faridjamalov-cnn-br 
